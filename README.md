@@ -1,3 +1,3 @@
-This repository contains code used for the analysis of Peru cluster by [Dixit et al](https://www.biorxiv.org/content/10.1101/418202v1). 
+This repository contains code used for the analysis of Peru cluster by [Dixit et al](https://www.nature.com/articles/s41598-019-41967-8). 
 
-Dixit, A. et al. Genotypic clustering does not imply recent tuberculosis transmission in a high prevalence setting: A genomic epidemiology study in Lima, Peru. bioRxiv 418202 (2018). doi:10.1101/418202
+Dixit, A. et al. Whole genome sequencing identifies bacterial factors affecting transmission of multidrug-resistant tuberculosis in a high-prevalence setting. Scientific Reports 9 (2019)
